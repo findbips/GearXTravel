@@ -230,7 +230,7 @@ const cities = [
   {
     name: "São Paulo",
     country: "Brazil",
-    population: 12252023,
+    population: 12252025,
     attractions: [
       "Ibirapuera Park",
       "São Paulo Museum of Art",

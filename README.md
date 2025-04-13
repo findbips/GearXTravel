@@ -1,6 +1,5 @@
-# Travelo
-This is individual project called Roaming Routes project made by Ayushmaan Rajput (fw27_017).
-[Travelo Website](https://stately-cactus-6c6a66.netlify.app/)
+# GearXTravel
+This is individual project called GearXTravel is for demonstrating travel business solutions.
 
 ## Some of the Features
 * search city
